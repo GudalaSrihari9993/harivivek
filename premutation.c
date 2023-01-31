@@ -33,6 +33,7 @@ void permute(char* a,int l, int r)
 }
 
 /* Driver code */
+printf("Hello\n");
 int main()
 {
 	char str[]="saivivek";
